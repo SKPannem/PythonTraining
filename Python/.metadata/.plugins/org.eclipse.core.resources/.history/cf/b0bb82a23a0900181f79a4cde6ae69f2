@@ -1,0 +1,7 @@
+#!/usr/bin/python3 ----- for mac not for windows
+
+#This is an exercise file
+
+def main():
+    print("Hello World")
+    

@@ -1,0 +1,15 @@
+
+
+import re
+
+def main():
+    print("Hello World")   
+
+    file = open("google.txt")
+    
+    for i in file:
+        patternMatch = re.search("Python", i)
+        re.search(pattern, string, flags)
+
+
+if __name__ == "__main__": main()

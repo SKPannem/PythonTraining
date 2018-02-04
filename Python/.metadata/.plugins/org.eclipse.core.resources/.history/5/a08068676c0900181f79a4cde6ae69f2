@@ -1,0 +1,13 @@
+
+
+
+def main():
+    print("Hello World")   #indentation - where it shows both the prints are under same path
+    print("printing something")
+# print("when i use my print to be separate or not indented from the other two then this prints first and then it prints other later as main is defined at the top and using it at the bottom")
+#     sayhi()
+# 
+# def sayhi():
+#     print("Hi you there")
+
+if __name__ == "__main__": main()

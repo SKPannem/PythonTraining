@@ -1,0 +1,14 @@
+
+#Conditionals
+def main():
+    scoreKevin = 103
+    defaultHighScore = 100
+    
+    if scoreKevin > defaultHighScore:    
+        print("Kevin you did that, congrats")
+    
+    else:
+        print("Try harder Kavin")
+    
+    
+if __name__ == "__main__": main()

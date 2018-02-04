@@ -1,0 +1,12 @@
+
+
+def main():
+    highScore = 1
+    print(highScore)
+    
+    
+    highScore = 1
+    print(type(highScore),highScore)
+    
+if __name__ == "__main__": main()
+

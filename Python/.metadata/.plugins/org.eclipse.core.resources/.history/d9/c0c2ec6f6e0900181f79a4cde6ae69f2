@@ -1,0 +1,5 @@
+
+Unlike most Unix systems and services, Windows does not include a system supported installation of Python.
+To make Python available, the CPython team has compiled Windows installers (MSI packages) with every release for many years.
+These installers are primarily intended to add a per-user installation of python, with the core interpreter and library being used by a single user.
+Python is an interpreted, object oriented, high level programming language with dynamic semantics.

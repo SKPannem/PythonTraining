@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Projects\Python Classes\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Chapter02\com.python.pydev.analysis\v2_indexcache
+whileLoop|1517796123017471000|D:\Projects\Python Classes\Python\Chapter02\whileLoop.py
+strings|1517789656526567000|D:\Projects\Python Classes\Python\Chapter02\strings.py
+complexType|1517793568623612000|D:\Projects\Python Classes\Python\Chapter02\complexType.py
+switchcase|1517794278740799000|D:\Projects\Python Classes\Python\Chapter02\switchcase.py
+numbers|1517787790458731000|D:\Projects\Python Classes\Python\Chapter02\numbers.py
+forLoop|1517797811011673000|D:\Projects\Python Classes\Python\Chapter02\forLoop.py
+controlLoop|1518467572139301000|D:\Projects\Python Classes\Python\Chapter02\controlLoop.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+5=whileLoop
+1=strings
+2=complexType
+6=switchcase
+4=numbers
+7=forLoop
+3=controlLoop
+-- END DICTIONARY
+-- START TREE 1
+1
+mai|7|main!10@main!18@main!26@main!34@main!42@main!50@main!58@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

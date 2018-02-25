@@ -1,0 +1,59 @@
+
+
+# write a script accept a number and check the given
+# number is an Even  or Odd number
+
+n = int(input("Enter a Number : "))
+
+if n%2 == 0 :
+    print(n,"is the Even Number")
+    
+    
+##########################################################################
+
+# WAS accept a number and check the given number is
+# 3 digit or not
+
+
+    
+##########################################################################
+
+# Login program
+
+
+
+##########################################################################
+
+# Guess number
+
+
+    
+##########################################################################
+
+# Guess number
+
+
+
+
+
+##########################################################################
+
+# Write a script accept empno,ename,job and salary and
+#calculate bonus based on the following condtions
+
+#job       bonus
+#manager    20% on ann_sal
+#analyst    18% on ann_sal
+#programmer 15% on ann_sal
+#salesman   12% on ann_sal
+#others     10% on ann_sal
+
+
+
+##########################################################################
+
+# write a script accept 2 number's and find greast number
+
+
+
+##########################################################################

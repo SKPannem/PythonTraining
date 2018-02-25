@@ -1,0 +1,127 @@
+from itertools import count
+
+# If statement assignments
+
+#1) WAP accept a string and check 'a' character exist
+#in the given string are not
+
+# b = input("Enter a Name : ")
+# 
+# if "a" in b :
+#     print("a","is in the string", b)
+#     print(len(b))
+#     print(count(len("a")))
+# else :
+#     print("a","is not in the string", b)
+
+#2) write a script accept 2 number's and find greatest number
+
+# a = int(input("Enter Number1 : "))
+# b = int(input("Enter Number2 : "))
+#  
+# if a!=b :
+#     if a>b :
+#         print("The greatest Number is",a)
+#     elif a<b :
+#         print("The greatest Number is",b)    
+# else :
+#     print("Both the numbers ",a ,"and", b ,"are Same")
+
+#3) WAP accept a intger number and check the given number is
+# +ve or -ve no.
+
+# n = int(input("Enter the integer Number :"))
+# 
+# if n!=0 :
+#     if n>0 :
+#         print(n,"is the +ve number")
+#     else :
+#         print(n,"is the -ve number")
+# else :
+#     print(n,"is the neither +ve nor -ve number")
+
+
+#4) Write a  accept a number and check the given number is multiple of 5 or not
+
+# n = int(input("Enter the number : "))
+# 
+# if n%5 == 0 :
+#     print("Given Number is the multiple of 5")
+# else :
+#     print("Given Number is not a multiple of 5")
+
+
+#5) WAP accept 3 integer numbers and
+#find greatest number
+
+a = int(input("Enter the interger Number1 : "))
+b = int(input("Enter the interger Number2 : "))
+c = int(input("Enter the interger Number3 : "))
+ 
+if a!=b!=c :
+    if a==b and a>c :
+        print("The greatest Number is",a)
+    elif a==c and a>b :
+        print("The greatest Number is",a)
+    elif  b==c and b>c :
+        print("The greatest Number is",b)
+                                
+    else :
+        print("The greatest Number is",c)
+else :
+    print("All the three numbers ",a ,b ,"and", c ,"are Same")
+
+
+
+
+
+
+
+
+
+
+
+if a>b and a>c:
+    print("The greatest Number is",a)
+elif b>a and b>c :
+    print("The greatest Number is",b)   
+else :
+    print("The greatest Number is",c) 
+
+
+
+
+
+#6) WAP accept student name,and three subject marks
+#and calculate result,total marks,avg marks and grade
+#based  on following conditions
+
+#  NOTE : pass marks is 40
+#  avg marks      grade
+#  >=90           A+
+#  >=80 and <90   A
+#  >=70 and <80   B
+#  >=60 and <70   C
+#  >=50 and <60   D
+#  <50            No grade
+
+studentName = input("Enter the Student Name : ")
+marks1 = int(input("Enter the Marks1 : "))
+marks2 = int(input("Enter the Marks2 : "))
+marks3 = int(input("Enter the Marks3 : "))
+
+totalMarks = marks1+marks2+marks3
+avgMarks = totalMarks/3
+
+
+# 7)WAP accept product no,pname,price,qty and caluclate
+# total,disc based onthe following conditions
+# and net amount and prepare bill
+
+# Total                   Discount
+# >10000                  20% on total
+# >=5000 and <10000       15% on total
+# >=3000 and <5000        12% on total
+# >=1000 and < 3000       10% on total
+# <1000                   5% on total
+

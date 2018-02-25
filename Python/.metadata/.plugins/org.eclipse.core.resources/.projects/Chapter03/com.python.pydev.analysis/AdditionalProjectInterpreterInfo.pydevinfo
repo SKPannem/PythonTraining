@@ -1,0 +1,16 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Projects\Python Classes\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Chapter03\com.python.pydev.analysis\v2_indexcache
+string01|1518583149173679000|D:\Projects\Python Classes\Python\Chapter03\string01.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=string01
+-- END DICTIONARY
+-- START TREE 1
+1
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

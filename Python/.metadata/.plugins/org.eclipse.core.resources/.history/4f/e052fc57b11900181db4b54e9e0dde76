@@ -1,0 +1,47 @@
+
+# If statement assignments
+
+#1) WAP accept a string and check 'a' character exist
+#in the given string are not
+
+b = input("Enter a Name : ")
+
+if "a" in b :
+    print("a"," is in the string", b)
+else :
+    print(a," is not in the string", b)
+
+#2) write a script accept 2 number's and find greast number
+
+#3) WAP accept a intger number and check the given number is
+# +ve or -ve no.
+
+#4) Write a  accept a number and check the given number is multiple of 5 or not
+
+#5) WAP accept 3 integer numbers and
+#find greatest number
+
+#6) WAP accept student name,and three subject marks
+#and calculate result,total marks,avg marks and grade
+#based  on following conditions
+
+#  NOTE : pass marks is 40
+#  avg marks      grade
+#  >=90           A+
+#  >=80 and <90   A
+#  >=70 and <80   B
+#  >=60 and <70   C
+#  >=50 and <60   D
+#  <50            No grade
+
+# 7)WAP accept product no,pname,price,qty and caluclate
+# total,disc based onthe following conditions
+# and net amount and prepare bill
+
+# Total                   Discount
+# >10000                  20% on total
+# >=5000 and <10000       15% on total
+# >=3000 and <5000        12% on total
+# >=1000 and < 3000       10% on total
+# <1000                   5% on total
+

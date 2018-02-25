@@ -1,0 +1,27 @@
+##########################################################################
+
+# Guess number
+
+# n=int(input("Enter a guess [1-10 ] : "))
+# 
+# if  n==3 :
+#     print("Wow.Your guess is correct")
+# else :
+#     print("Sorry.Your guess is worng")
+    
+##########################################################################
+
+# Guess number
+
+import random
+ 
+n=int(input("Enter a guess [1-10 ] : "))
+ 
+x=random.randint(1,10)
+ 
+if  n==x :
+    print("Wow.Your guess is correct")
+else :
+    print("Sorry.Your guess is worng.I was thinking ",x)
+
+##########################################################################

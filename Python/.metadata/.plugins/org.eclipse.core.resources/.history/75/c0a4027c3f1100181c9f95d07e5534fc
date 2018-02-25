@@ -1,0 +1,19 @@
+
+
+def main():
+    print("Hello World")
+    
+    lower = "i am a string"
+    upper = "I AM A STRING"
+    cash = 20
+    
+    
+    print(lower.upper())
+    print(upper.lower())
+    print(upper.capitalize())
+    newstring = upper.swapcase()
+    print("old is", id(upper),  "and new is", id(newstring))
+    print("i am a string too".upper())
+
+
+if __name__ == "__main__": main()

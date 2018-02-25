@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Projects\Python Classes\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Day3\com.python.pydev.analysis\v2_indexcache
+Basic_Class_Prgs|1519160834881765000|D:\Projects\Python Classes\Python\Day3\Basic_Class_Prgs.py
+Assignment1|1519169682872567000|D:\Projects\Python Classes\Python\Day3\Assignment1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=Basic_Class_Prgs
+2=Assignment1
+-- END DICTIONARY
+-- START TREE 1
+27
+a|1|a!11@
+age|1|age!11@
+ann|1|ann_sal!11@
+avg|2|avg_marks!19@avg_marks!11@
+b|1|b!11@
+bon|1|bonus!11@
+c|1|c!11@
+cal|2|calculate_total!19@calculateTotal!19@
+da|1|da!19@
+emp|2|empNo!19@empno!11@
+ena|2|eName!19@ename!11@
+esa|1|esal!11@
+gro|1|gross_sal!19@
+hra|1|hra!19@
+mar|3|marks2!11@marks3!11@marks1!11@
+nam|1|name!11@
+net|1|netAmount!19@
+pna|1|pname!19@
+pri|1|price!19@
+pro|1|productNo!19@
+qty|1|qty!19@
+sal|1|sal!19@
+sna|1|sname!11@
+stu|1|studentName!19@
+sub|3|submarks1!19@submarks2!19@submarks3!19@
+ta|1|ta!19@
+tot|2|total_allow!19@total_marks!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

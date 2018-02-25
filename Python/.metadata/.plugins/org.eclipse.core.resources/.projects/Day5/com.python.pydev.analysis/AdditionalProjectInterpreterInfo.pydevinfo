@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Projects\Python Classes\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Day5\com.python.pydev.analysis\v2_indexcache
+PraticeAssignmentday5|1519508800615446000|D:\Projects\Python Classes\Python\Day5\PraticeAssignmentday5.py
+Day_5_If_prgs_assignments|1519347725486914000|D:\Projects\Python Classes\Python\Day5\Day_5_If_prgs_assignments.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=PraticeAssignmentday5
+1=Day_5_If_prgs_assignments
+-- END DICTIONARY
+-- START TREE 1
+21
+a|1|a!11@
+ann|1|ann_sal!11@
+avg|0|
+b|1|b!11@
+c|0|
+emp|1|empno!11@
+ena|1|ename!11@
+job|1|job!11@
+mar|0|
+n|2|n!11@n!19@
+net|0|
+pna|0|
+pri|0|
+pro|0|
+pwd|1|pwd!11@
+qty|0|
+sal|1|sal!11@
+stu|0|
+tot|0|
+una|1|uname!11@
+x|1|x!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

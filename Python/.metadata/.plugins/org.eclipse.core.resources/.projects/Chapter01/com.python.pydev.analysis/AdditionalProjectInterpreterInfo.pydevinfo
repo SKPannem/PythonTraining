@@ -1,19 +1,22 @@
 -- VERSION_4
 -- START DISKCACHE_2
 D:\Projects\Python Classes\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Chapter01\com.python.pydev.analysis\v2_indexcache
-syntax|1517703351624548000|D:\Projects\Python Classes\Python\Chapter01\syntax.py
+regex|1517723284687408000|D:\Projects\Python Classes\Python\Chapter01\regex.py
+comments|1517789026750061000|D:\Projects\Python Classes\Python\Chapter01\comments.py
+syntax|1519347111229988000|D:\Projects\Python Classes\Python\Chapter01\syntax.py
+conditionals|1517707190191630000|D:\Projects\Python Classes\Python\Chapter01\conditionals.py
 assign|1517705590800750000|D:\Projects\Python Classes\Python\Chapter01\assign.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
-2=syntax
+4
+2=regex
+3=syntax
+4=conditionals
 1=assign
 -- END DICTIONARY
 -- START TREE 1
-3
-mai|2|main!10@main!18@
-msg|0|
-say|0|
+1
+mai|4|main!10@main!18@main!26@main!34@
 -- END TREE
 -- START TREE 2
 0
